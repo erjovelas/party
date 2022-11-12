@@ -1,0 +1,34 @@
+.Titulo1{
+    background-color:aquamarine;
+    font-size: 2rem;
+    color:crimson;
+    display: flex;
+    justify-content: center;
+    font-family: 'Monoton', cursive;
+}
+.Titulo2{
+    font-family: 'Audiowide', cursive;;
+    color:darkmagenta;
+    background-color: blanchedalmond;
+}
+.Titulo3{
+    font-family: 'Share Tech Mono', monospace;
+}
+
+ .contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    color: darkviolet;
+    background-color:mistyrose;
+    cursor:grab;
+    border-radius: 15%;
+    border-color: darkred;
+}
+body{
+    background-image: url(https://gifdb.com/images/thumbnail/milk-and-mocha-music-dancing-4i60i29w0f2em27y.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
+}
